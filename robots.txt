@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fbnplumbing.com/sitemap.xml
